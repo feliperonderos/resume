@@ -27,7 +27,7 @@ Developed and designed a portfolio website and messaging application built and d
 
 Scheduler App, 2015
 play.google.com/store/apps/details?id=calendarview.com.feliperonderos	
-Developed an Android Application which allows users to add, visualize and interact with repetitive tasks in their schedule. Implemented using SQLite Database, fragments and custom UI classes and interfaces.
+Developed an Android Application which allows users to add, visualize and interact with repetitive tasks in their schedule. Implemented in Java using SQLite Database, fragments and custom UI classes.
 
 ~~~~~~~~~~~~~~~
 RELEVANT SKILLS
