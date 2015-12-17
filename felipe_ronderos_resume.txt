@@ -1,0 +1,52 @@
+FELIPE RONDEROS
+feliperonderos.com
+101 LSU Student Union #17830
+Baton Rouge, LA 70803
+(225) 424-9101
+feliperonderos@gmail.com
+
+~~~~~~~~~~~~~~~
+EDUCATION
+
+Louisiana State University, Baton Rouge, LA	
+Bachelor of Science in Computer Science expected Dec. 2017
+Concentration: Data Science and Analytics
+G.P.A. 3.44						
+
+Scholarships 
+•	Flagship Scholars Award
+•	Global Leaders Scholarship 
+
+~~~~~~~~~~~~~~~
+INDEPENDENT PROJECTS
+
+Personal Website, 2015
+www.feliperonderos.com	
+Developed and designed a portfolio website and messaging application built and deployed using Google App Engine for Python. Used the Google Datastore API, Memcached, the Jinja 2 Templating Engine and Bootstrap v3.
+
+Scheduler App, 2015
+play.google.com/store/apps/details?id=calendarview.com.feliperonderos	
+Developed an Android Application which allows users to add, visualize and interact with repetitive tasks in their schedule. Implemented using SQLite Database, fragments and custom UI classes and interfaces.
+
+~~~~~~~~~~~~~~~
+RELEVANT SKILLS
+
+•	Programming Languages: Java, Python, JavaScript
+•	Web Technologies: HTML, CSS, Cookies
+•	Databases: SQLite, App Engine Datastore, Memcached
+•	IDE: Android Studio, IntelliJ IDEA, NetBeans, Google App Engine SDK for Python 
+•	Foreign Languages: Spanish (Fluent), German (Basic)
+
+~~~~~~~~~~~~~~~
+RELEVANT COURSEWORK 
+
+LSU Computer Science Courses 
+
+•	Computer Science I for Majors
+•	Computer Science II for Majors 
+•	Discrete Structures
+•	Advanced Data Structures
+•	Computer Organization and Design 
+•	Numerical Methods 
+•	Object Oriented Design
+   
