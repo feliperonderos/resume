@@ -21,6 +21,10 @@ Scholarships
 ~~~~~~~~~~~~~~~
 INDEPENDENT PROJECTS
 
+Meeting App, 2016
+https://play.google.com/store/apps/details?id=com.feliperonderos.meetingapp
+Developed an Android Application which allows users to create and share meetings and keep track of participants’ locations. The application was implemented in Java using SQLite Database, the Google Places API and Android Intents and Services. The associated API and website run on Google App Engine.
+
 Personal Website, 2015
 www.feliperonderos.com	
 Developed and designed a portfolio website and messaging application built and deployed using Google App Engine for Python. Used the Google Datastore API, Memcached, the Jinja 2 Templating Engine and Bootstrap v3.
